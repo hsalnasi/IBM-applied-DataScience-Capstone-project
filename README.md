@@ -8,7 +8,7 @@
  * Interactive data visualization
  * Machine learning prediction
  
- According to your graphs, there is a correlation between certain features of rocket launches and their outcomes, whether successful or not. Additionally, it appears that the decision tree algorithm may be the most effective in predicting the successful landing of the Falcon 9 first stage.
+ According to our graphs, there is a correlation between certain features of rocket launches and their outcomes, whether successful or not. Additionally, it appears that the decision tree algorithm may be the most effective in predicting the successful landing of the Falcon 9 first stage.
  
  # Introduction  
  The goal of this capstone project is to predict whether the Falcon 9 first stage will land successfully. SpaceX offers Falcon 9 rocket launches at a cost of 62 million dollars, as advertised on their website. This is significantly lower than other providers, who charge upwards of 165 million dollars per launch. The cost savings are largely due to SpaceX’s ability to reuse the first stage. By predicting whether the first stage will land successfully, we can determine the cost of a launch. This information could be useful for other companies looking to compete with SpaceX for rocket launches.
