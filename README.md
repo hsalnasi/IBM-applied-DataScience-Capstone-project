@@ -89,7 +89,7 @@ Functions from Dash are used to generate an interactive site where we can toggle
 When the launch site CCAFS LC-40 is selected from the dropdown menu on the website, a pie chart is displayed. In the chart, 0 indicates failed launches and 1 indicates successful launches. According to the chart, 73.1% of launches at CCAFS LC-40 were unsuccessful.
 ![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/d8610f09-c4a6-4814-b34d-8146def05b12)
 In the picture below , When the payload mass range is set between 2000kg and 8000kg, a scatterplot is displayed. In the plot, class 0 indicates failed launches and class 1 indicates successful launches.
-![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/274279c8-e0dc-4a69-9684-41f372158b6f)
+![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/274279c8-e0dc-4a69-9684-41f372158b6f) 
 
 # Machine Learning Prediction  
 (8Macine Learning Prediction.ipynb)
