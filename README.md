@@ -51,7 +51,7 @@ Functions such as value_counts() from the Pandas and NumPy libraries are utilize
 * Number of occurrence of each orbit
 * Number and occurrence of each mission outcome
 # EDA with SQL  
-[4EDA with SQL](Capstone_project/4EDA with SQL.ipynb)
+[4EDA with SQL](4EDA with SQL.ipynb)
 
 SQL is used to query the data and address multiple questions about it, such as:
 * The distinct launch sites involved in the space mission.
