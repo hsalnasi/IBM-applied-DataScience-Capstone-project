@@ -51,7 +51,7 @@ Functions such as value_counts() from the Pandas and NumPy libraries are utilize
 * Number of occurrence of each orbit
 * Number and occurrence of each mission outcome
 # EDA with SQL  
-[](4EDA with SQL.ipynb)
+[EDA with SQL](4EDA with SQL.ipynb)
 
 SQL is used to query the data and address multiple questions about it, such as:
 * The distinct launch sites involved in the space mission.
@@ -80,7 +80,7 @@ Example A: A folium map showing the succeeded launches and failed launches for a
 ![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/4798910b-e6ad-4784-a447-a142db171c55)
 
 # Data Visualization using Dash  
-[](7spacex_dash_app.py)
+(7spacex_dash_app.py)
 Functions from Dash are used to generate an interactive site where we can toggle the input using a dropdown menu and a range slider. Using a pie chart and a scatterplot, the interactive site shows:
 
 *  total success launches from each launch site
@@ -92,7 +92,7 @@ In the picture below , When the payload mass range is set between 2000kg and 800
 ![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/274279c8-e0dc-4a69-9684-41f372158b6f)
 
 # Machine Learning Prediction  
-[](8Macine Learning Prediction.ipynb)
+(8Macine Learning Prediction.ipynb)
 The Scikit-learn library is used to create machine learning models in the prediction phase of the project, which includes several steps.
 * 1. The data is standardized using the StandardScaler() function from the preprocessing module of the Scikit-learn library.
 * 2. The data is divided into training and test sets using the train_test_split function from the model_selection module of the Scikit-learn library.
