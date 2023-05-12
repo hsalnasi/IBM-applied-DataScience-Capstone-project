@@ -113,7 +113,7 @@ When the results of all four models are compared, they have the same accuracy sc
 * Logistic regression (GridSearchCV best score: 0.8464285714285713)
 
 The image below displays the confusion matrix for the Decision Tree model when it is evaluated on the test data.
-![Uploading image.png…]()
+![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/ac2aa472-76d0-4bd7-8446-9b4a857f5260)
 
 # Discusion  
 According to the data visualization section, some features may be correlated with the mission outcome. For instance, for orbit types Polar, LEO, and ISS, the successful landing rate is higher for heavy payloads. However, for GTO orbit type, it is difficult to distinguish between positive and negative landing rates because both successful and unsuccessful missions are present.
