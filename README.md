@@ -77,8 +77,9 @@ The Folium library is used to create interactive maps to display data visually.
 Functions such as add_child() and folium plugins like MarkerCluster, MousePosition, and DivIcon are used to create interactive maps with the Folium library.
 
 Example A: A folium map showing the succeeded launches and failed launches for a specific launch site. If we zoom in on one of the launch site, we can see green and red tags. Each green tag represents a successful launch while each red tag represents a failed launch.
+![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/edeb1552-533d-4e5d-b4ab-e64dee500ba7)
 
-![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/4798910b-e6ad-4784-a447-a142db171c55)
+
 
 # Data Visualization using Dash  
 [](7spacex_dash_app.py)
@@ -89,11 +90,12 @@ Functions from Dash are used to generate an interactive site where we can toggle
   
 When the launch site CCAFS LC-40 is selected from the dropdown menu on the website, a pie chart is displayed. In the chart, 0 indicates failed launches and 1 indicates successful launches. According to the chart, 73.1% of launches at CCAFS LC-40 were unsuccessful.
 
-![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/d8610f09-c4a6-4814-b34d-8146def05b12)
+![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/4798910b-e6ad-4784-a447-a142db171c55)
 
 In the picture below , When the payload mass range is set between 2000kg and 8000kg, a scatterplot is displayed. In the plot, class 0 indicates failed launches and class 1 indicates successful launches.
 
-![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/274279c8-e0dc-4a69-9684-41f372158b6f)
+
+![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/d8610f09-c4a6-4814-b34d-8146def05b12)
 
 
 # Machine Learning Prediction  
