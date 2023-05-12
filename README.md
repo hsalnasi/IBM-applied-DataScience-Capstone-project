@@ -59,7 +59,7 @@ SQL is used to query the data and address multiple questions about it, such as:
 * Average payload mass carried by booster version F9 v1.1
 The SQL functions and statements utilized comprise of SELECT, DISTINCT, AS, FROM, WHERE, LIMIT, LIKE, SUM(), AVG(), MIN(), BETWEEN, COUNT(), and YEAR().
 # Data Visualization using Matplotlib and Seaborn  
-[](5EDA Visualization.ipynb)
+[5EDA Visualization](Capstone_project/5EDA Visualization.ipynb)
 Functions from the Matplotlib and Seaborn libraries are employed to represent the data visually using scatterplots, bar charts, and line charts. These plots and charts aid in comprehending the relationships between various features, such as:
 * The correlation between the flight number and the launch site.
 * The correlation between payload mass and launch site
@@ -69,7 +69,7 @@ Functions from the Seaborn library that are utilized in this context include sca
 Example: The scatterplot shows the correlation between flight number and launch site
 ![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/b73727ca-d867-4414-b6f5-5cb0b8b86a8c)
 # Data Visualization using Folium  
-[](6Interactive Visual Analytics with Folium lab.ipynb)
+[Interactive Visual Anaylitcs with Folium](Capstone_project/6Interactive Visual Analytics with Folium lab.ipynb)
 The Folium library is used to create interactive maps to display data visually.
 * Mark all launch sites on a map
 * Mark the succeeded launches and failed launches for each site on the map
@@ -80,7 +80,7 @@ Example A: A folium map showing the succeeded launches and failed launches for a
 ![image](https://github.com/hsalnasi/IBM-applied-DataScience-Capstone-project/assets/89119185/4798910b-e6ad-4784-a447-a142db171c55)
 
 # Data Visualization using Dash  
-(7spacex_dash_app.py)
+[](Capstone_project/7spacex_dash_app.py)
 Functions from Dash are used to generate an interactive site where we can toggle the input using a dropdown menu and a range slider. Using a pie chart and a scatterplot, the interactive site shows:
 
 *  total success launches from each launch site
