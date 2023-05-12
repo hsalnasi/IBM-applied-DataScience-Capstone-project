@@ -35,7 +35,7 @@ The methodology includes:
   * K-nearest neighbors (KNN)
 
 # Data Collection using Web Scraping  
-[](2Data Collection with Web Scraping.ipynb)
+[2Data Collection with Web Scraping.ipynb](2Data Collection with Web Scraping.ipynb)
 
 * The data was obtained by scraping the [List of Falcon9 and Falcon Heavy launches web page.](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 * The website exclusively provides data pertaining to Falcon 9 launches.
@@ -44,7 +44,7 @@ The methodology includes:
 * A dataframe is subsequently constructed using the extracted column names and populated with launch records obtained from the table rows.
 * The resulting dataframe consists of 121 rows, representing instances, and 11 columns, representing features.
 # EDA with Pandas and Numpy  
-[](3EDA.ipynb)
+[3EDA.ipynb](3EDA.ipynb)
 Functions such as value_counts() from the Pandas and NumPy libraries are utilized to obtain fundamental information about the collected data, including:
 
 * Number of launches on each launch site
